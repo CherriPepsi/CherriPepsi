@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CherriPepsi
 - 👀 I’m interested in Computers, Designing, Programming, and Food!
 - 🌱 I’m currently learning how to independently develop different projects.
-- 💞️ I’m looking to collaborate on a project the team and I would have fun creating.
+- 💞️ I’m looking forward to creating different project, so I could build new skills.
 - 📫 How to reach me -- HERE!
 
 <!---
