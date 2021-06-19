@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CherriPepsi
+- 👋 Hi, I’m Rynisha.
 - 👀 I’m interested in Computers, Designing, Programming, and Food!
 - 🌱 I’m currently learning how to independently develop different projects.
 - 💞️ I’m looking forward to the future learning of software development and the other aspects of IT!
